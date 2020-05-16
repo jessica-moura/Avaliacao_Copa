@@ -1,0 +1,130 @@
+{
+    "times": [
+        {
+            "nome_time": "Uruguai",
+            "ano": "1930",
+            "nome_tecnico": "Alberto-Suppici",
+            "derrotado": "Argentina"
+        },
+        {
+            "nome_time": "Itália",
+            "ano": "1934",
+            "nome_tecnico": "Vittorio Pozzo",
+            "derrotado": "Tchecoslováquia"
+        },
+        {
+            "nome_time": "Itália",
+            "ano": "1938",
+            "nome_tecnico": "Vittorio Pozzo",
+            "derrotado": "Hungria"
+        },
+        {
+            "nome_time": "Uruguai",
+            "ano": "1950",
+            "nome_tecnico": "Juan Lopez",
+            "derrotado": "Brasil"
+        },
+        {
+            "nome_time": "Alemanha Ocidental",
+            "ano": "1954",
+            "nome_tecnico": "Sepp Herberger",
+            "derrotado": "Hungria"
+        },
+        {
+            "nome_time": "Brasil",
+            "ano": "1958",
+            "nome_tecnico": "Vicente Feola",
+            "derrotado": "Suecia"
+        },
+        {
+            "nome_time": "Brasil",
+            "ano": "1962",
+            "nome_tecnico": "Aymoré Moreira",
+            "derrotado": "Tchecoslováquia"
+        },
+        {
+            "nome_time": "Inglaterra",
+            "ano": "1966",
+            "nome_tecnico": "Alf Ramsey",
+            "derrotado": "Alemanha Ocidental"
+        },
+        {
+            "nome_time": "Brasil",
+            "ano": "1970",
+            "nome_tecnico": "Zagallo",
+            "derrotado": "Itália"
+        },
+        {
+            "nome_time": "Alemanha Ocidental",
+            "ano": "1974",
+            "nome_tecnico": "Helmut Schon",
+            "derrotado": "Holanda"
+        },
+        {
+            "nome_time": "Argentina",
+            "ano": "1978",
+            "nome_tecnico": "César Menotti",
+            "derrotado": "Holanda"
+        },
+        {
+            "nome_time": "Itália",
+            "ano": "1982",
+            "nome_tecnico": "Enzo Bearzot",
+            "derrotado": "Alemanha Ocidental"
+        },
+        {
+            "nome_time": "Argentina",
+            "ano": "1986",
+            "nome_tecnico": "Carlos Bilardo",
+            "derrotado": "Alemanha Ocidental"
+        },
+        {
+            "nome_time": "Alemanha Ocidental",
+            "ano": "1990",
+            "nome_tecnico": "Franz Beckenbauer",
+            "derrotado": "Argentina"
+        },
+        {
+            "nome_time": "Brasil",
+            "ano": "1994",
+            "nome_tecnico": "Carlos Alberto Parreira",
+            "derrotado": "Itália"
+        },
+        {
+            "nome_time": "França",
+            "ano": "1998",
+            "nome_tecnico": "Aimé Jacquet",
+            "derrotado": "Brasil"
+        },
+        {
+            "nome_time": "Brasil",
+            "ano": "2002",
+            "nome_tecnico": "Luiz Felipe Scolari",
+            "derrotado": "Alemanha"
+        },
+        {
+            "nome_time": "Itália",
+            "ano": "2006",
+            "nome_tecnico": "Marcello Lippi",
+            "derrotado": "França"
+        },
+        {
+            "nome_time": "Espanha",
+            "ano": "2010",
+            "nome_tecnico": "Vicente Del Bosque",
+            "derrotado": "Holanda"
+        },
+        {
+            "nome_time": "Alemanha",
+            "ano": "2014",
+            "nome_tecnico": "Joachim Low",
+            "derrotado": "Argentina"
+        },
+        {
+            "nome_time": "França",
+            "ano": "2018",
+            "nome_tecnico": "Didier Deschamps",
+            "derrotado": "Croácia"
+        }
+    ]
+}
